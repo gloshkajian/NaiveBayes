@@ -1,14 +1,9 @@
-
-# coding: utf-8
-
-# In[ ]:
-
 #!/usr/bin/env python
 
 #############################################################################
 # Name: Gregory Loshkajian
 # Date: 12/31/2015
-# Contact: gal2@princeton.edu
+# Contact: g.loshkajian@outlook.com
 # Course project? no
 # Description: Implementation of a Gaussian Naive-Bayes algorithm as 
 # described in Applied Predictive Modeling by Max Kuhn
